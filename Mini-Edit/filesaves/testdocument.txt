@@ -1,0 +1,4 @@
+This is a test of the file saving mechanic. This text will appear in 18 point (large), Arial font. It will be the color red, and the background color will be black. 
+
+This is a test of the checking for changes feature. This now works.
+
