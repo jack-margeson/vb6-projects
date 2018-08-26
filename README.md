@@ -1,2 +1,10 @@
 # vb6projects
-Visual Basic 6 projects for Computer Programming 1 Credit Flex, Summer of 2018.
+Computer Programming I
+----
+* Visual Basic 6
+* Computer Programming I Credit Flex, Summer of 2018.
+
+Computer Programming II
+----
+* Visual Basic 6, Visual Basic .NET
+* Computer Programming II, 2018-2019.
